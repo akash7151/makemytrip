@@ -15,6 +15,8 @@ import org.springframework.web.bind.annotation.RestController;
 
         @GetMapping({"/hotels"})
         public String getData() {
+            System.out.println("Hello");
+
             return "Book your HOTELS for Pune at 50% OFF!";
         }
     }
