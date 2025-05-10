@@ -1,7 +1,7 @@
 package com.example.makemytrip;
 
-public class Demo {
+public class Suspect {
     public static void main(String[] args) {
-        System.out.println("Hello");
+        System.out.println("Suspect User");
     }
 }
